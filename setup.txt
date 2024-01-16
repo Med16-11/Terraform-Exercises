@@ -1,0 +1,3 @@
+installing terraform on windows 
+installing aws cli 
+create user in aws 
